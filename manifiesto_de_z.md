@@ -1,0 +1,3 @@
+# Manifiesto de Z
+
+Las ideas no tienen relación con la materia. Si existe un mundo de las ideas, estas son contradictorias, dogmáticas, fantásticas, y están ahí por la autoridad de alguien, o porque unos verracos insisten en dedicarse a esas tonterías intrascendentes. Si para algo sirven es para obtener ventaja sobre aquellos ingenuos o cobardes que todavía cumplen con ellas. Solo importa obtener lo deseable a como de lugar, eso es lo trascendente; y si usar las ideas quita a unos cuantos del camino, entonces bienvenidas sean. Al final uno las usa porque declarar sus intenciones, o actuar consecuentemente con ellas, provocaría un rechazo aplastante. Entonces otros como yo aprovecharían para derrotarme, con ayuda de los ingenuos y cobardes. 
