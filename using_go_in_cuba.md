@@ -1,5 +1,7 @@
 # Using [Go][0] in Cuba
 
+![Forbidden](forbidden.png)
+
 Some packages and tools related to [Go][0] programming cannot be downloaded from Cuba, due some restrictions Google applies. The savior for such cases turns out to be [Tor Browser][1], with a little addition.
 
 These restrictions hit your face when you do something like:
