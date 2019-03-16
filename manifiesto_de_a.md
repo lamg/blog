@@ -1,0 +1,3 @@
+# Manifiesto de A
+
+La materia es irrelevante, las ideas son la esencia de existir. Yo soy un alma que vibra al calor de los cuerpos de mis amantes, hermosos de cuantas maneras pueden haber. No tiene sentido vivir sin la excitación de apreciar una obra de arte, o de experimentar los paisajes y cultura de algún país exótico. Lamentablemente el mundo se ha tornado gris a medida que he madurado. Los amantes que creí atractivos resultaron ser unos farsantes o vinieron a destruir mi mundo, otros eran simplemente aburridos. El amor ha sido decepcionante, pero sigo creyendo en él, aunque veo venir un caos indomable. Le pido a Dios que me ayude a escapar de él. 
