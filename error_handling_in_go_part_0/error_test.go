@@ -32,7 +32,13 @@ func doSomething1() (r *record, e error) {
 		func() { r = &record{V: v, U: u} },
 	}
 	bLnSearch(
-		func(i int) bool { b := e != nil; fs[i](); return b },
+		func(i int) bool {
+			b := e != nil
+			if !b {
+				fs[i]()
+			}
+			return b
+		},
 		len(fs),
 	)
 	return
